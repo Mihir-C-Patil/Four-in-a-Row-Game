@@ -1,6 +1,6 @@
 A simple Four in a Row Game in Python using the PyGame Module
 
-This is a variation on the traditional Four in a Row game. Here, the grid size can be changed, from a minimum of 3 to as big as your screen size allows. (The grid size is automatically reduced if the inputted grid size is too large for your screen.
+This is a variation on the traditional Four in a Row game. Here, the grid size can be changed, from a minimum of 3 to as big as your screen size allows. (The grid size is automatically reduced if the inputted grid size is too large for your screen)
 
 Instructions:
     This program makes use of the pygame library.
